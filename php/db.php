@@ -1,7 +1,7 @@
 <?php
 
 function Createdb(){
-    $servername = "database-2.cybiswmg96ur.ap-south-1.rds.amazonaws.com";
+    $servername = "database-1.cybiswmg96ur.ap-south-1.rds.amazonaws.com";
     $username = "root";
     $password = "admin123";
     $dbname = "bookstore";
