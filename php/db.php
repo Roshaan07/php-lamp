@@ -1,9 +1,9 @@
 <?php
 
 function Createdb(){
-    $servername = "192.168.16.182";
+    $servername = "192.168.23.129";
     $username = "remote";
-    $password = "admin@123";
+    $password = "admin123";
     $dbname = "bookstore";
 
     // create connection
