@@ -2,7 +2,7 @@
 
 function Createdb(){
     $servername = "192.168.22.214";
-    $username = "remote";
+    $username = "roshaan";
     $password = "root123";
     $dbname = "bookstore";
 
