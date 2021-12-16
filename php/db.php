@@ -2,8 +2,8 @@
 
 function Createdb(){
     $servername = "192.168.22.214";
-    $username = "roshaan";
-    $password = "admin123";
+    $username = "peter";
+    $password = "admin1234";
     $dbname = "bookstore";
 
     // create connection
